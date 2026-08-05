@@ -5,7 +5,9 @@ This project demonstrates how to clean and preprocess a real-world employee data
 FEATURES :-
 
 • Load employee dataset from CSV
+
 • Detect missing values
+
 • Replace infinite values (inf, -inf) with NaN
 • Fill missing salary values using Mean
 • Fill missing performance ratings using Median
