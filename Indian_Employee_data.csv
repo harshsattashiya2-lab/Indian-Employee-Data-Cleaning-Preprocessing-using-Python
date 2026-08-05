@@ -1,0 +1,151 @@
+Emp_ID,Name,Age,Salary (INR),Experience (Years),City,Department,Performance Rating
+101,Amit Sharma,30,750000,30,Chennai,Marketing,5
+102,Riya Gupta,25,NaN,17,Kochi,Operations,4.5
+103,Rajesh Verma,55,inf,25,Mumbai,IT,5
+104,Priya Singh,48,5000000,2,Kochi,IT,3.8
+105,Sunil Kumar,52,4800000,8,Kolkata,Operations,NaN
+106,Alok Mehta,28,550000,7,Kochi,Finance,3.8
+107,Kavita Yadav,25,1250000,9,Kochi,IT,3.8
+108,Pankaj Mishra,24,-72000,24,Jaipur,Finance,4
+109,Deepika Reddy,52,720000,34,Pune,Finance,3.9
+110,Ramesh Patel,29,5000000,29,Mumbai,IT,4.7
+111,Meera Nair,29,720000,34,Mumbai,Finance,3.9
+112,Sameer Desai,53,820000,25,Delhi,Marketing,3.9
+113,Swati Joshi,43,1250000,32,Mumbai,Marketing,4.4
+114,Vinod Iyer,29,3000000,16,Jaipur,Management,4.7
+115,Anjali Saxena,40,380000,35,Jaipur,Management,4.3
+116,Manish Khanna,31,750000,6,Kolkata,Marketing,4.4
+117,Arjun Pandey,28,4800000,18,Kochi,Management,3.8
+118,Neha Kapoor,33,NaN,13,Jaipur,Sales,4.6
+119,Anil Sharma,26,4800000,13,Pune,IT,3.5
+120,Rohit Bansal,28,980000,19,Delhi,IT,4
+121,Suresh Choudhary,25,inf,35,Chennai,HR,4.5
+122,Sneha Tiwari,47,3000000,1,Hyderabad,IT,3.9
+123,Gopal Das,39,650000,31,Jaipur,Operations,3.8
+124,Preeti Sharma,50,1200000,8,Mumbai,Sales,5
+125,Aditya Saxena,31,-30000,15,Kochi,Management,3.9
+126,Nikita Roy,23,500000,34,Hyderabad,HR,3.9
+127,Rahul Jain,23,720000,8,Bangalore,Finance,3.6
+128,Komal Shah,40,1250000,35,Kolkata,IT,4.2
+129,Tarun Arora,22,1200000,7,Kolkata,Operations,4
+130,Pooja Mehta,38,1250000,13,Mumbai,Operations,3.8
+131,Amit Sharma 2,25,720000,20,Kolkata,Management,4.2
+132,Riya Gupta 2,35,1100000,11,Hyderabad,IT,3.6
+133,Rajesh Verma 2,43,820000,24,Pune,Management,4.3
+134,Priya Singh 2,40,380000,13,Hyderabad,HR,4.4
+135,Sunil Kumar 2,38,380000,24,Kochi,Management,4.6
+136,Alok Mehta 2,29,720000,12,Pune,HR,4.3
+137,Kavita Yadav 2,46,720000,10,Bangalore,Sales,4.6
+138,Pankaj Mishra 2,43,4800000,6,Jaipur,HR,4.5
+139,Deepika Reddy 2,23,4800000,32,Chennai,Marketing,5
+140,Ramesh Patel 2,49,5000000,11,Jaipur,Marketing,3.6
+141,Meera Nair 2,25,750000,28,Kochi,Operations,4.2
+142,Sameer Desai 2,50,5000000,8,Chennai,Operations,4.4
+143,Swati Joshi 2,38,3000000,23,Pune,Sales,4.2
+144,Vinod Iyer 2,54,720000,0,Hyderabad,Marketing,3.8
+145,Anjali Saxena 2,31,750000,20,Kolkata,Marketing,4.1
+146,Manish Khanna 2,26,550000,33,Pune,Finance,4.1
+147,Arjun Pandey 2,30,550000,28,Kolkata,Marketing,4.7
+148,Neha Kapoor 2,52,820000,12,Hyderabad,Operations,4.8
+149,Anil Sharma 2,27,3000000,32,Chennai,Marketing,4.5
+150,Rohit Bansal 2,44,1200000,26,Kolkata,Marketing,4.1
+151,Suresh Choudhary 2,29,500000,2,Chennai,Operations,4.8
+152,Sneha Tiwari 2,44,980000,8,Hyderabad,IT,4.7
+153,Gopal Das 2,47,2000000,28,Jaipur,IT,3.8
+154,Preeti Sharma 2,28,500000,10,Mumbai,IT,4.9
+155,Aditya Saxena 2,53,750000,3,Jaipur,HR,3.5
+156,Nikita Roy 2,24,4800000,12,Delhi,Operations,3.2
+157,Rahul Jain 2,34,1200000,2,Pune,Finance,5
+158,Komal Shah 2,46,1250000,16,Jaipur,HR,3.9
+159,Tarun Arora 2,37,980000,13,Jaipur,Marketing,5
+160,Pooja Mehta 2,26,750000,29,Delhi,Marketing,5
+161,Amit Sharma 3,53,980000,23,Kolkata,Management,4.8
+162,Riya Gupta 3,29,5000000,4,Jaipur,HR,3.5
+163,Rajesh Verma 3,48,1250000,8,Hyderabad,Sales,3.5
+164,Priya Singh 3,41,3000000,10,Jaipur,Marketing,5
+165,Sunil Kumar 3,43,720000,33,Kolkata,Sales,4.9
+166,Alok Mehta 3,51,1100000,30,Chennai,Marketing,5
+167,Kavita Yadav 3,54,820000,16,Bangalore,Finance,3.8
+168,Pankaj Mishra 3,42,3000000,13,Kochi,IT,4.4
+169,Deepika Reddy 3,33,5000000,10,Kochi,Sales,3.5
+170,Ramesh Patel 3,37,1100000,7,Delhi,Management,4.3
+171,Meera Nair 3,52,980000,17,Pune,HR,4.6
+172,Sameer Desai 3,23,820000,35,Pune,Operations,3.5
+173,Swati Joshi 3,49,980000,14,Hyderabad,IT,4.9
+174,Vinod Iyer 3,27,820000,23,Kolkata,Marketing,4.8
+175,Anjali Saxena 3,47,980000,30,Delhi,HR,3.8
+176,Manish Khanna 3,24,3000000,21,Kochi,Operations,3.8
+177,Arjun Pandey 3,31,1100000,2,Bangalore,Sales,3.6
+178,Neha Kapoor 3,35,650000,35,Delhi,Management,3.9
+179,Anil Sharma 3,31,4800000,32,Delhi,HR,4.7
+180,Rohit Bansal 3,49,980000,12,Kolkata,Sales,4.1
+181,Suresh Choudhary 3,51,3000000,17,Jaipur,Finance,4.5
+182,Sneha Tiwari 3,23,2000000,10,Kolkata,Sales,4.6
+183,Gopal Das 3,32,720000,32,Hyderabad,Marketing,3.5
+184,Preeti Sharma 3,39,5000000,18,Delhi,Management,4.1
+185,Aditya Saxena 3,39,1250000,32,Chennai,HR,4.5
+186,Nikita Roy 3,30,1100000,8,Kolkata,Marketing,4.6
+187,Rahul Jain 3,22,1200000,25,Jaipur,IT,4.9
+188,Komal Shah 3,29,980000,18,Jaipur,HR,3.6
+189,Tarun Arora 3,24,500000,28,Bangalore,Management,4.3
+190,Pooja Mehta 3,42,650000,15,Delhi,Management,4.2
+191,Amit Sharma 4,32,4800000,11,Pune,HR,3.6
+192,Riya Gupta 4,32,750000,21,Chennai,Marketing,4.1
+193,Rajesh Verma 4,55,1200000,19,Delhi,Management,4.6
+194,Priya Singh 4,37,820000,31,Jaipur,Marketing,3.6
+195,Sunil Kumar 4,48,2000000,11,Hyderabad,Sales,5
+196,Alok Mehta 4,43,550000,0,Kolkata,Marketing,4.3
+197,Kavita Yadav 4,33,820000,14,Delhi,Management,4.4
+198,Pankaj Mishra 4,23,3000000,7,Delhi,Operations,3.6
+199,Deepika Reddy 4,37,720000,3,Delhi,Sales,4.8
+200,Ramesh Patel 4,51,3000000,35,Bangalore,Management,4.7
+201,Meera Nair 4,53,1100000,1,Pune,Sales,4.3
+202,Sameer Desai 4,49,750000,1,Chennai,IT,4.5
+203,Swati Joshi 4,38,1250000,32,Pune,Marketing,3.6
+204,Vinod Iyer 4,33,720000,0,Delhi,Marketing,4.4
+205,Anjali Saxena 4,33,1250000,28,Jaipur,Marketing,4.9
+206,Manish Khanna 4,45,4800000,6,Kolkata,Management,3.8
+207,Arjun Pandey 4,34,4800000,33,Kochi,Sales,3.5
+208,Neha Kapoor 4,33,2000000,26,Kolkata,Management,3.5
+209,Anil Sharma 4,28,2000000,29,Kolkata,Sales,4.9
+210,Rohit Bansal 4,36,550000,28,Kochi,HR,4.1
+211,Suresh Choudhary 4,28,980000,30,Kochi,HR,4.6
+212,Sneha Tiwari 4,46,650000,14,Pune,Sales,4.8
+213,Gopal Das 4,53,750000,4,Bangalore,HR,4.4
+214,Preeti Sharma 4,41,1100000,22,Mumbai,IT,4.6
+215,Aditya Saxena 4,42,550000,5,Mumbai,Management,4.6
+216,Nikita Roy 4,45,750000,31,Mumbai,Marketing,4.1
+217,Rahul Jain 4,32,550000,7,Kolkata,HR,4.9
+218,Komal Shah 4,28,1250000,33,Jaipur,Finance,4.2
+219,Tarun Arora 4,33,750000,1,Pune,Marketing,3.6
+220,Pooja Mehta 4,49,380000,1,Kochi,HR,4.5
+221,Amit Sharma 5,38,750000,33,Delhi,Marketing,3.5
+222,Riya Gupta 5,32,980000,19,Bangalore,Operations,4.9
+223,Rajesh Verma 5,28,1200000,5,Jaipur,HR,3.6
+224,Priya Singh 5,25,4800000,31,Bangalore,Sales,3.5
+225,Sunil Kumar 5,35,650000,34,Kochi,Sales,3.9
+226,Alok Mehta 5,43,550000,15,Kolkata,Marketing,3.9
+227,Kavita Yadav 5,42,1250000,28,Pune,IT,3.2
+228,Pankaj Mishra 5,37,500000,30,Jaipur,HR,4.7
+229,Deepika Reddy 5,52,2000000,2,Chennai,Operations,3.5
+230,Ramesh Patel 5,25,1100000,17,Kochi,Sales,4.4
+231,Meera Nair 5,53,500000,16,Kolkata,Sales,4.9
+232,Sameer Desai 5,39,750000,4,Mumbai,Sales,4.3
+233,Swati Joshi 5,48,4800000,21,Kolkata,Sales,4.5
+234,Vinod Iyer 5,22,750000,27,Jaipur,IT,4.9
+235,Anjali Saxena 5,24,1250000,35,Mumbai,Operations,3.5
+236,Manish Khanna 5,42,1250000,32,Delhi,IT,3.2
+237,Arjun Pandey 5,26,980000,23,Hyderabad,Sales,4.1
+238,Neha Kapoor 5,26,820000,7,Jaipur,Management,3.9
+239,Anil Sharma 5,24,820000,17,Chennai,IT,4.5
+240,Rohit Bansal 5,46,5000000,13,Hyderabad,Marketing,4.2
+241,Suresh Choudhary 5,43,2000000,13,Kolkata,Sales,4.1
+242,Sneha Tiwari 5,43,650000,6,Kochi,Finance,4.8
+243,Gopal Das 5,32,4800000,17,Kolkata,Marketing,4.9
+244,Preeti Sharma 5,40,4800000,30,Chennai,IT,3.5
+245,Aditya Saxena 5,42,720000,17,Jaipur,Operations,4.8
+246,Nikita Roy 5,52,650000,25,Pune,Management,3.8
+247,Rahul Jain 5,54,720000,17,Kochi,Management,4
+248,Komal Shah 5,53,4800000,9,Delhi,Marketing,4.7
+249,Tarun Arora 5,44,1200000,32,Jaipur,Sales,3.8
+250,Pooja Mehta 5,32,1200000,29,Pune,HR,3.9
