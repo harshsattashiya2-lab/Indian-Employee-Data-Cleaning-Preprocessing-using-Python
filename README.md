@@ -40,5 +40,6 @@ Output
 
 • The script generates a cleaned dataset named: Cleaned_Indian_Employee_data.csv
 
-• output screenshort : output.png
+• output screenshort : 
+![image alt](https://github.com/harshsattashiya2-lab/Indian-Employee-Data-Cleaning-Preprocessing-using-Python/blob/main/output.png?raw=true)
 
